@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# Group_Work_1 Code of Conduct
 
 ## Our Pledge
 
